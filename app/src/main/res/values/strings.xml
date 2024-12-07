@@ -1,0 +1,17 @@
+<resources>
+    <string name="activation">Activation</string>
+    <string name="app">ILO App</string>
+    <string name="get_started">Commencer</string>
+    <string name="try_demo">Essayer la démo</string>
+    <string name="next">Suivant</string>
+    <string name="enter_passcode">Entrer le code d\'accès</string>
+    <string name="enter_your_name">Entrer votre nom</string>
+    <string name="register">Inscrivez-vous</string>
+    <string name="search_chapter">Rechercher un chapitre/section</string>
+    <string name="last_reading">Dernière lecture</string>
+    <string name="anytime">A tout moment</string>
+    <string name="anytime_text">Vous pouvez apprendre et pratiquer</string>
+    <string name="timetable">Emploi du temp</string>
+    <string name="timetable_text">Préparez à l\'examen à l\'avance</string>
+    <string name="progress">Progression</string>
+</resources>
